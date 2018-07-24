@@ -6,9 +6,9 @@ except ImportError:
 
 setup(
     name='classifier_example',
-    version='0.1',
+    version='0.1.1',
     py_modules=['classifier'],
-    url='https://github.com/smiler25/samples/classifier',
+    url='https://github.com/smiler25/samples/tree/master/classifier',
     author='Anton Kolosov',
     author_email='kolosmile@yandex.ru',
     description='',

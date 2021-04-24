@@ -1,4 +1,4 @@
-aiohttp==3.7.3
+aiohttp==3.7.4
 aiohttp-graphql==1.0.0
 beautifulsoup4==4.6.0
 graphene==2.1.3
